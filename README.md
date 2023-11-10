@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  📫 Reach me on <a href="https://www.linkedin.com/in/saravanan896/**" target="blank"> LinkedIn </a>
+  📫 Reach me on <a href="https://www.linkedin.com/in/saravanan896" target="blank"> LinkedIn </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
