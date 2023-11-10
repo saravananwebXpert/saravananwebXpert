@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [React Project](https://svm.i-nautix.com)
 
-- 🌱 I’m currently learning **Full Stack Development && System Design**
+- 🌱 I’m currently learning **Full Stack Development & System Design**
 
 - 💬 Ask me about **React.js, Node.js, Redux**
 
