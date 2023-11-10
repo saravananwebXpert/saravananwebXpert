@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js, Node.js, Redux**
 
-- 📫 How to reach me **saravananm292@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/saravanan896/**
 
 - ⚡ Fun fact **I am very silent and funny person**
 
