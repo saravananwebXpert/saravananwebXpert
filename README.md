@@ -10,12 +10,11 @@
 
 - 💬 Ask me about **React.js, Node.js, Redux**
 
-- 📫 How to reach me **https://www.linkedin.com/in/saravanan896/**
-
 - ⚡ Fun fact **I am very silent and funny person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  📫 Reach me on **<a href="https://www.linkedin.com/in/saravanan896/**" target="blank"> LinkedIn </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
