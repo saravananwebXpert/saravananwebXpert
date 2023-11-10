@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [React Project](https://svm.i-nautix.com)
 
-- 🌱 I’m currently learning **React Native, Django**
+- 🌱 I’m currently learning **Full Stack Development && System Design**
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **React.js, Node.js, Redux**
 
 - 📫 How to reach me **saravananm292@gmail.com**
 
